@@ -11,7 +11,7 @@
   }
   .slider-wrapper {
     width: var(--width);
-    border: 4px solid #999;
+    border: 2px solid #999;
     border-radius: 10px;
     overflow: hidden;
     margin: auto;
